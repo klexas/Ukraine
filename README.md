@@ -4,7 +4,6 @@ Hopes and prayers are not enough.
 
 Call your representives and pressure them to support Ukraine in their defence of Russians invasion. 
 ## Topics to push for:
-Permission to purchase defence weapons.
 
 
 
