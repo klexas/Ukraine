@@ -4,6 +4,7 @@ Hopes and prayers are not enough.
 
 Call your representives and pressure them to support Ukraine in their defence of Russians invasion. 
 ## Topics to push for:
+Permission to purchase defence weapons.
 
 
 
@@ -11,6 +12,7 @@ Call your representives and pressure them to support Ukraine in their defence of
 Name: Dr. Nikolaus Marschik  
 Phone:   
 Email:   
+Website: https://www.bmeia.gv.at/en/oev-bruessel/  
 
 ## Belgium
 Name: Guy Verhofstadt  
@@ -79,8 +81,9 @@ Email: https://www.dfa.ie/prep/brussels/contact-us/
 
 ## Italy
 Name: Federica Mogherini  
-Phone:  
-Email:  
+Phone: +32. 2. 22. 00. 411  
+Email: rpue.rpue@esteri.it  
+Website: https://italiaue.esteri.it/rapp_ue/en/ambasciata/  
 
 ## Latvia
 Name:  
