@@ -79,66 +79,66 @@ Phone: 00 32 2 28 23 200
 Email: https://www.dfa.ie/prep/brussels/contact-us/  
 
 ## Italy
-Name: Federica Mogherini
-Phone: 
-Email: 
+Name: Federica Mogherini  
+Phone:  
+Email:  
 
 ## Latvia
-Name: 
-Phone: 
-Email: 
+Name:  
+Phone:  
+Email:  
 
 ## Lithuania
-Name: 
-Phone: 
-Email: 
+Name:  
+Phone:  
+Email:  
 
 ## Luxembourg
-Name: 
-Phone: 
-Email: 
+Name:  
+Phone:  
+Email:  
 
 ## Malta
-Name: 
-Phone: 
-Email: 
+Name:  
+Phone:  
+Email:  
 
 ## Netherlands
-Name: 
-Phone: 
-Email: 
+Name:  
+Phone:  
+Email:  
 
 ## Poland
-Name: 
-Phone: 
-Email: 
+Name:  
+Phone:  
+Email:  
 
 ## Portugal
-Name: 
-Phone: 
-Email: 
+Name:  
+Phone:  
+Email:  
 
 ## Romainia
-Name: 
-Phone: 
-Email: 
+Name:  
+Phone:  
+Email:  
 
 ## Slovakia
-Name: 
-Phone: 
-Email: 
+Name:  
+Phone:  
+Email:  
 
 ## Slovenia
-Name: 
-Phone: 
-Email: 
+Name:  
+Phone:  
+Email:  
 
 ## Spain
-Name: 
-Phone: 
-Email: 
+Name:  
+Phone:  
+Email:  
 
 ## Sweden
-Name: 
-Phone: 
-Email: 
+Name:  
+Phone:  
+Email:  
