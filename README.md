@@ -149,3 +149,52 @@ Email:
 Name:  
 Phone:  
 Email:  
+
+
+# Embassies of Ukraine per Country
+
+
+
+# Trusted Charities
+
+## Direct Donations to Ukraine National Bank
+- Source : Ukraine National Bank 
+
+### The National Bank of Ukraine has opened a special account to raise funds for the Ukrainian Army. Anyone from any country can donate!
+
+*The account is multi-currency. It is opened for transfers of funds from international partners and donors, any person as well as from Ukrainian business and citizens.*   
+
+**🇺🇲 For donations in USD:**  
+SWIFT Code NBU: NBUA UA UX  
+JP MORGAN CHASE BANK, New York  
+SWIFT Code: CHASUS33  
+Account: 400807238  
+383 Madison Avenue, New York, NY 10179, USA  
+Bank account: UA843000010000000047330992708  
+
+**🇬🇧 For donations in GBP:**  
+SWIFT Code NBU: NBUA UA UX  
+Bank of England, London  
+SWIFT Code: BKENGB2L  
+Account: 40000982  
+Threadneedle Street, London EC2R 8AH, UK  
+Bank account: UA843000010000000047330992708  
+
+
+**🇪🇺 For donations in EUR:**  
+SWIFT Code NBU: NBUA UA UX  
+DEUTSCHE BUNDESBANK, Frankfurt  
+SWIFT Code: MARKDEFF  
+Account: 5040040066  
+IBAN DE05504000005040040066  
+Wilhelm-Epsteinn-Strabe 14, 60431 Frankfurt Am Main,Germany  
+Bank account: UA843000010000000047330992708  
+
+
+**🇺🇦 Для зарахування коштів у національній валюті:**  
+Банк: Національний банк України  
+МФО 300001  
+Рахунок № UA843000010000000047330992708  
+код ЄДРПОУ 00032106  
+Отримувач: Національний банк України  
+
