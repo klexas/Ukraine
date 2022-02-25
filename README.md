@@ -6,10 +6,10 @@ Google: "The Permanent EU Representative {country}", you will get said countries
 
 Call your representives and pressure them to support Ukraine in their defence of Russians invasion. 
 ## Topics to push for:
-Permission to purchase defence weapons.
-Remove Russia from SWIFT
-Reduce Oil and Gas dependancy from RU
-Deploy defensive troops
+Permission to purchase defence weapons.  
+Remove Russia from SWIFT  
+Reduce Oil and Gas dependancy from RU  
+Deploy defensive troops  
 
 
 
