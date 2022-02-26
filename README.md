@@ -14,24 +14,26 @@ Deploy defensive troops
 
 
 ## Austria
-Name: Dr. Nikolaus Marschik  
-Phone:   
-Email:   
+Name: Dr. Nikolaus Marschik  //  
+Phone: +32 (0) 2 2345 100  
+Email: bruessel-ov@bmeia.gv.at
 Website: https://www.bmeia.gv.at/en/oev-bruessel/  
 
 ## Belgium
-Name: Guy Verhofstadt  
-Phone:   
-Email:   
+Name: Ambassador Willem van de Voorde // Guy Verhofstadt // Didier Reynders(COMMISSIONER (2019-2024))
+Phone: +32-22332111   
+Email: info.belgoeurop@diplobel.fed.be  
+Website: https://op.europa.eu/en/web/who-is-who/organization/-/organization/CONSIL/CONSIL_40CS // https://ec.europa.eu/commission/commissioners/2019-2024/reynders_en  
 
 ## Bulgaria
-Name: Ambassador Dimiter TZANTCHEV  
-Phone:  
-Email:  
+Name: Ambassador Dimiter TZANTCHEV // Mr Kiril PETKOV  
+Phone: +32 2 235 83 01  
+Email: mission.brusselseu@bg-permrep.eu
+Website: https://op.europa.eu/en/web/who-is-who/organization/-/organization/CONSIL/CONSIL_CS00916  
 
 ## Croatia
-Name: Mr Ognian ZLATEV  
-Phone: +385-1-4681300  
+Name: Mr Ognian ZLATEV // Mr Andrej PLENKOVIĆ 
+Phone: +385-1-4681300  // +32-2281-6934 // +32-2281-6111
 Email:  
 
 ## Cyprus
