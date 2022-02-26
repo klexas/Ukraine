@@ -61,8 +61,8 @@ Email:
 
 ## France
 Name: Thierry Breton  
-Phone:  
-Email:  
+Phone: +32-229-90200  
+Email: cab-breton-contact@ec.europa.eu
 
 ## Germany
 Name: Ursula von der Leyen  
