@@ -162,10 +162,10 @@ Phone:
 Email:  
 
 ## Sweden
-Name:  
-Phone:  
-Email:  
-
+Name: Lars Danielsson 
+Phone: +32 (0)2 289 56 43 
+Email: lars.danielsson@gov.se
+Website: https://www.government.se/sweden-in-the-eu/permanent-representation-of-sweden-to-the-eu/ambassadors2/
 
 # Embassies of Ukraine per Country
 
