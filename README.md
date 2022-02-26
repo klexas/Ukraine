@@ -20,10 +20,10 @@ Email: bruessel-ov@bmeia.gv.at
 Website: https://www.bmeia.gv.at/en/oev-bruessel/  
 
 ## Belgium
-Name: Ambassador Willem van de Voorde // Guy Verhofstadt // Didier Reynders(COMMISSIONER (2019-2024))
+Name: Ambassador Willem van de Voorde // Guy Verhofstadt // Didier Reynders(COMMISSIONER (2019-2024))  
 Phone: +32-22332111   
 Email: info.belgoeurop@diplobel.fed.be  
-Website: https://op.europa.eu/en/web/who-is-who/organization/-/organization/CONSIL/CONSIL_40CS // https://ec.europa.eu/commission/commissioners/2019-2024/reynders_en  
+Website: https://op.europa.eu/en/web/who-is-who/organization/-/organization/CONSIL/CONSIL_40CS // https://ec.europa.eu/commission/  commissioners/2019-2024/reynders_en  
 
 ## Bulgaria
 Name: Ambassador Dimiter TZANTCHEV // Mr Kiril PETKOV  
@@ -32,34 +32,40 @@ Email: mission.brusselseu@bg-permrep.eu
 Website: https://op.europa.eu/en/web/who-is-who/organization/-/organization/CONSIL/CONSIL_CS00916  
 
 ## Croatia
-Name: Mr Ognian ZLATEV // Mr Andrej PLENKOVIĆ 
-Phone: +385-1-4681300  // +32-2281-6934 // +32-2281-6111
-Email:  
+Name: Mr Ognian ZLATEV // Mr Andrej PLENKOVIĆ  
+Phone: +385-1-4681300  // +32-2281-6934 // +32-2281-6111  
+Email: hr.perm.rep@mvep.hr  
+Website: https://op.europa.eu/en/web/who-is-who/organization/-/organization/CONSIL/CONSIL_CSU554 
 
 ## Cyprus
 Name: Ambassador Christina Rafti  
-Phone:   
-Email:  
+Phone: +32 2 739 51 11.   
+Email: cy.perm.rep@mfa.gov.cy  
+Website: http://www.mfa.gov.cy/mfa/PermRep/PermRep_Brussels.nsf/page23_en/page23_en?OpenDocument  
 
 ## Czech Republic
-Name: Ms Dana KOVARIKOVA  
-Phone:   
-Email:   
+Name: Edita Hrdá  
+Phone:  +32 2 2139 114  
+Email:   edita_hrda(at)mzv.cz  
+Website: https://www.mzv.cz/representation_brussels/en/about_the_representation/team_at_the_permanent_representation/index.html  
+
 
 ## Denmark
 Name: Jeppe Tranholm-Mikkelsen  
-Phone:  
-Email:  
+Phone: +32 2 233 08 11  
+Email: Difficult  
+Website: https://eu.um.dk/en  
 
 ## Estonia
 Name: Vivian Loonela  
-Phone:  
-Email:  
+Phone: +32 2 295 45 78 // +32 2 295 68 59  
+Email: balazs.ujvari@ec.europa.eu // claire.joawn@ec.europa.eu  
+Website: https://ec.europa.eu/commission/presscorner/detail/en/IP_21_6061  
 
 ## Finland
 Name: Helena Hakaoja - Nicolaidis  
-Phone:  
-Email:  
+Phone: "can be contacted by telephone on 2 287 84 11" - Needs confirmation  
+Email: sanomat.EUE@formin.fi  
 
 ## France
 Name: Thierry Breton  
@@ -67,9 +73,14 @@ Phone: +32-229-90200
 Email: cab-breton-contact@ec.europa.eu
 
 ## Germany
-Name: Ursula von der Leyen  
-Phone: 0032-(0)2-787 1000  
-Email:  
+Name: Ursula von der Leyen  // Michael Clauss (More influential)
+Phone: 0032-(0)2-787 1000 (switch board) 
+Email:  - Hard to find
+Website: https://bruessel-eu.diplo.de/eu-en/permanentrepresentation/ourambassadors (All Ambassadors) // https://bruessel-eu.diplo.de/eu-en/permanentrepresentation/ourambassadors/astv2botschafter/1512454 (All)
+
+### Notes about Germany
+It's extremely hard to actually find out who to contact. The listed are the only I can stand behind. If any German natives/citizens can help to figure out why, it would be appreciated. 
+
 
 ## Greece
 Name:   
