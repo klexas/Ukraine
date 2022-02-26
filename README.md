@@ -104,19 +104,22 @@ Email: rpue.rpue@esteri.it
 Website: https://italiaue.esteri.it/rapp_ue/en/ambasciata/  
 
 ## Latvia
-Name:  
-Phone:  
-Email:  
+Name: Ambassador Lelde Līce-Līcīte  
+Phone: +32-22383100  
+Email: permrep.eu@mfa.gov.lv  
+Website: http://www2.mfa.gov.lv/en/brussels  
 
 ## Lithuania
 Name:  
-Phone:  
-Email:  
+Phone: +32-27710140  
+Email: office@eu.mfa.lt  
+Website: http://eu.mfa.lt/eurep/en/  
 
 ## Luxembourg
 Name:  
-Phone:  
-Email:  
+Phone: +32-27375600  
+Email: bruxelles.rpue@mae.etat.lu  
+Website: http://bruxelles-rpue.mae.lu/fr  
 
 ## Malta
 Name:  
