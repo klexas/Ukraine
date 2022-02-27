@@ -122,44 +122,52 @@ Email: bruxelles.rpue@mae.etat.lu
 Website: http://bruxelles-rpue.mae.lu/fr  
 
 ## Malta
-Name:  
-Phone:  
-Email:  
+Name: Ambassador Marlene Bonnici  
+Phone: +32-23430195  
+Email: maltarep@gov.mt  
+Website: http://www.maltaineu.gov.mt  
 
 ## Netherlands
 Name:  
-Phone:  
-Email:  
+Phone: +32-26791511  
+Email: bre@minbuza.nl  
+Website: https://www.permanentrepresentations.nl/permanent-representations/pr-eu-brussels  
 
 ## Poland
-Name:  
-Phone:  
-Email:  
+Name: Andrzej Sadoś  
+Phone: +32-27804200  
+Email: bebrustpe@msz.gov.pl  
+Website: https://www.gov.pl/web/eu/permanent-representation  
 
 ## Portugal
 Name:  
-Phone:  
-Email:  
+Phone: +32-22864211  
+Email: reper@reper-portugal.be  
+Website: https://www.ue.missaoportugal.mne.pt/pt/  
 
 ## Romainia
 Name:  
-Phone:  
-Email:  
+Phone: +32-27000640  
+Email: bru@rpro.eu  
+Website: http://ue.mae.ro/  
 
 ## Slovakia
 Name:  
-Phone:  
-Email:  
+Phone: +32-27436811  
+Email: eu.brussels@mzv.sk  
+Website: https://www.mzv.sk/web/szbrusel-en  
 
 ## Slovenia
 Name:  
-Phone:  
-Email:  
+Phone: +32-22136300   
+Email: slomission.eu@gov.si  
+Website: https://www.gov.si/en/representations/permanent-representation-to-the-european-union-brussels/
 
 ## Spain
 Name:  
-Phone:  
-Email:  
+Phone: +32-25098611  
+Email: reper.bruselasue@reper.maec.es  
+Website: https://es-ue.org/  
 
 ## Sweden
 Name: Lars Danielsson 
