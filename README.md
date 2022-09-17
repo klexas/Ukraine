@@ -223,3 +223,14 @@ Bank account: UA843000010000000047330992708
 код ЄДРПОУ 00032106  
 Отримувач: Національний банк України  
 
+# Buy a Message on a Rocket
+### Send your message to the Russian Invaders!
+
+You have a chance to send a greeting to orcs with your text written on an artillery shell.  
+You will receive a photo of your signed shell or a video of it being fired. Or you can even sign a M777 howitzer.
+
+**Address**: Ukraine, Cherkasy, str. Blagovistna 170, office #32. Dubova Ivanna Yuriivna
+
+[Twitter](https://mobile.twitter.com/signmyrocket/with_replies)
+
+[SignMyRocket](https://signmyrocket.com/)
